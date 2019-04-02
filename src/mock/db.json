@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Configure Static UI",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "start server Static UI",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Loade data Static UI",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Add Static UI",
+      "isComplete": true
+    },
+    {
+      "id": 5,
+      "name": "update Static UI",
+      "isComplete": false
+    },
+    {
+      "name": "dsfdf",
+      "isComplete": false,
+      "id": 6
+    },
+    {
+      "name": "fgd",
+      "isComplete": false,
+      "id": 7
+    },
+    {
+      "name": "dfsfd",
+      "isComplete": false,
+      "id": 8
+    },
+    {
+      "name": "dsad",
+      "isComplete": false,
+      "id": 9
+    },
+    {
+      "name": "sadsadsadssss",
+      "isComplete": false,
+      "id": 10
+    }
+  ]
+}
