@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run
-open 2 Terminals , in the first one run yarn start in the second one run npm run dev-server
+Open 2 terminals , in the first one run `yarn start` in the second one run `npm run dev-server`
 ## Available Scripts
 
 In the project directory, you can run:
